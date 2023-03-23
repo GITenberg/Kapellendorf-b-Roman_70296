@@ -1,0 +1,26 @@
+_repo: Kapellendorf-b-Roman_70296
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoechstetter, Sophie
+    gutenberg_agent_id: '55690'
+    url: http://www.gutenberg.org/2009/agents/55690
+description: ''
+gutenberg_issued: '2023-03-15'
+identifiers:
+  gutenberg: '70296'
+language: de
+pgterms:marc904: https://catalog.hathitrust.org/Record/100376028
+pgterms:marc905: 20201023063911hoechstett
+pgterms:marc906: '1908'
+pgterms:marc907: DE
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aGermany :$bGeorg Müller, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kapellendorf : $b Roman'
+url: http://www.gutenberg.org/ebooks/70296
